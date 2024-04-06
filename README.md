@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 <div align="center">
     🔭 I’m currently seeking an internship opportunity within Web & Mobile Application Development <br>
-    🌱 I’m currently learning **Dart, Flutter 
+    🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />Flutter 
 </div>
+
+<br/>
 
 <div align="center">
     📫 How to reach me: <br>
