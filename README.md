@@ -56,3 +56,16 @@ Here are some ideas to get you started:
 </a>
 
 </div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=php,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+</div>
+
+<br/>
