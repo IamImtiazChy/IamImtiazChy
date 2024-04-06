@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <div align="center">
     🔭 I’m currently seeking an internship opportunity within Web & Mobile Application Development <br>
-    🌱 I’m currently learning <img src="https://img.shields.io/badge/-Dart?logo=Dart&style=flat" />
-                               <img src="https://img.shields.io/badge/-Flutter?logo=Flutter&style=flat" />
+    🌱 I’m currently learning <img src="https://img.shields.io/badge/-Dart-1?logo=Dart&style=flat" />
+                               <img src="https://img.shields.io/badge/-Flutter-1?logo=Flutter&style=flat" />
 </div>
 
 <br/>
