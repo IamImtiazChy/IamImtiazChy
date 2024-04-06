@@ -24,3 +24,30 @@ Here are some ideas to get you started:
 <h3 align="center">An Undergraduate Software Engineering student from Bangladesh (BD)</h3>
 
 <br/>
+
+<div align="center">
+    🔭 I’m currently seeking an internship opportunity within Web & Mobile Application Development
+    🌱 I’m currently learning **Dart, Flutter
+    📫 How to reach me:
+</div>
+
+<div align="center">
+    📫 How to reach me:
+   <!-- Gmail -->
+<a href="mailto:your_email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<br>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/whatsappphonenumber" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+</div>
