@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Imtiaz+Chowdhury!;"/></a>
 </h1>
 
-<h3 align="center">An Undergraduate Software Engineering student from Bangladesh (BD)</h3>
+<h3 align="center">An Undergraduate Software Engineering student from Bangladesh</h3>
 
 <br/>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- WhatsApp -->
 <a href="https://wa.me/8801631330629" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+</a><br><b>Feel free to reach out to discuss collaboration opportunities or just to say Hi!👋</b>
 
 </div>
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=php,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </div>
 
 <br/>
