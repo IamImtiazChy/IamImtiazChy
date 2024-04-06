@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&lines=Hi+There!+👋;+I'm+Imtiaz+Chowdhury!;"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Imtiaz+Chowdhury!;"/></a>
 </h1>
 
 <h3 align="center">An Undergraduate Software Engineering student from Bangladesh (BD)</h3>
@@ -26,27 +26,32 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-    🔭 I’m currently seeking an internship opportunity within Web & Mobile Application Development <br>
-    🌱 I’m currently learning <img src="https://img.shields.io/badge/-Dart-1?logo=Dart&style=flat" />
-                               <img src="https://img.shields.io/badge/-Flutter-1?logo=Flutter&style=flat" />
+<!--     🔭 I’m currently <b><i>seeking an internship</i></b> opportunity within <b><i>Web & Mobile Application Development</i></b> <br> -->
+    --------------------------------<br>
+    🔭 I’m currently seeking <br>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&pause=1000&size=15&center=true&vCenter=true&width=350&height=15&duration=6000&lines=an+internship+opportunity;+within+Web+and+Mobile+Application+Development!!;"/></a> <br>
+    🌱 I’m currently learning <br>
+        <img src="https://img.shields.io/badge/-Dart-1?logo=Dart&style=flat" />
+        <img src="https://img.shields.io/badge/-Flutter-1?logo=Flutter&style=flat" /><br>
+    --------------------------------
 </div>
 
 <br/>
 
 <div align="center">
-    📫 How to reach me: <br>
+    <h4>📫 How to reach me:</h4> <br>
    <!-- Gmail -->
-<a href="mailto:your_email@gmail.com" target="_blank">
+<a href="mailto:imtiazchowdhury2001@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+<a href="http://www.linkedin.com/in/thisisfahimchy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/whatsappphonenumber" target="_blank">
+<a href="https://wa.me/8801631330629" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
