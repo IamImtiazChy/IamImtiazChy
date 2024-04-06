@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **IamImtiazChy/IamImtiazChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+      font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&lines=Hi+There!+👋;+I'm+Imtiaz+Chowdhury!;"/>
+</h1>
+
+<h3 align="center">An Undergraduate Software Engineering student from Bangladesh (BD)</h3>
+
+<br/>
