@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=php,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </div>
 
