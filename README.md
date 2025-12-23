@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <!-- <img width=390 src="https://streak-stats.demolab.com?user=IamImtiazChy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-    <img width=390 src="https://streak-stats.demolab.com?user=&theme=react&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img width=390 src="https://streak-stats.demolab.com?user=IamImtiazChy&theme=react&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IamImtiazChy&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" /> <!--&rank_icon=github&-->
   <br/>
   <img width=390 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamImtiazChy&langs_count=7&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
