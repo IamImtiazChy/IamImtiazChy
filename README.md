@@ -31,7 +31,8 @@ Here are some ideas to get you started:
     🔭 I’m currently seeking <br>
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&pause=1000&size=15&center=true&vCenter=true&width=350&height=20&duration=6000&lines=an+internship+opportunity;+within+Web+and+Mobile+Application+Development!!;"/></a> <br>
     🌱 I’m currently learning <br>
-            <img src="https://img.shields.io/badge/-Laravel-1?logo=Laravel&style=flat" /><br>
+            <img https://img.shields.io/badge/-react-blue?logo=react&style=flat/>
+            <!-- <img src="https://img.shields.io/badge/-Laravel-1?logo=Laravel&style=flat" /><br> -->
         <!--  <img src="https://img.shields.io/badge/-Dart-1?logo=Dart&style=flat" />  -->
        <!--   <img src="https://img.shields.io/badge/-Flutter-1?logo=Flutter&style=flat" /><br>  -->
     --------------------------------
