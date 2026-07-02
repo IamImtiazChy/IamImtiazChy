@@ -70,6 +70,12 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </div>
 
+<hr/>
+ 
+<h2 align="center">🏃🏻‍♂️‍➡️ My-GitFut-Card ⚽</h2>
 <br/>
+<div align="center">
+    (https://gitfut.com/IamImtiazChy.png)(https://gitfut.com/IamImtiazChy)
+</div>
 
 </div>
