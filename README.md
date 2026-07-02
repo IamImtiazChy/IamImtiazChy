@@ -75,7 +75,9 @@ Here are some ideas to get you started:
 <h2 align="center">🏃🏻‍♂️‍➡️ My-GitFut-Card ⚽</h2>
 <br/>
 <div align="center">
-    (https://gitfut.com/IamImtiazChy.png)(https://gitfut.com/IamImtiazChy)
+    <img src="https://gitfut.com/IamImtiazChy.png" />
+    <br/>
+    (https://gitfut.com/IamImtiazChy)
 </div>
 
 </div>
