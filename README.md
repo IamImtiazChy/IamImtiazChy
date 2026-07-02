@@ -75,9 +75,12 @@ Here are some ideas to get you started:
 <h2 align="center">🏃🏻‍♂️‍➡️ My-GitFut-Card ⚽</h2>
 <br/>
 <div align="center">
-    <img src="https://gitfut.com/IamImtiazChy.png?width=400&height=450;" />
-    <br/>
-    (https://gitfut.com/IamImtiazChy)
+    <img
+        src="https://gitfut.com/IamImtiazChy.png"
+        width="300"
+        height="350"
+        alt="GitFut Card"
+    />
 </div>
 
 </div>
