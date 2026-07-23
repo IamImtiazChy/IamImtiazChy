@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </div>
 
-<hr/>
+<!-- <hr/>
  
 <h2 align="center">🏃🏻‍♂️‍➡️ My-GitFut-Card ⚽</h2>
 <br/>
@@ -81,6 +81,6 @@ Here are some ideas to get you started:
         height="350"
         alt="GitFut Card"
     />
-</div>
+</div> -->
 
 </div>
